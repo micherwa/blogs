@@ -25,4 +25,4 @@ Hi，我叫Micherwa(米协瓦)，同事都叫我超哥。常出没于 公众号 
 
 
 #### PS：欢迎关注我的公众号 “超哥前端小栈”，交流更多的想法与技术。
-![wechat qrCode](https://raw.githubusercontent.com/micherwa/micherwa.github.io/master/src/assets/wechat_qrCode.jpg)
+![wechat qrCode](https://github.com/micherwa/blogs/blob/master/images/wechat_qrCode.jpg)
