@@ -3,6 +3,8 @@
 
 [原博客地址](http://micherwa.cc/blog/) 已不再更新，并会逐步地迁移到此。
 
+&nbsp;
+
 ## 博客归档（按年份倒序）
 
 #### 2019
@@ -15,8 +17,9 @@
 
 
 #### 2016
-- [「摘录」程序员面试技巧]()
+- [「摘录」程序员面试技巧](https://github.com/micherwa/blogs/blob/master/articles/2016/%E3%80%8C%E6%91%98%E5%BD%95%E3%80%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7.md)
 
+&nbsp;
 
 ## 个人介绍
 Hi，我叫Micherwa(米协瓦)，同事都叫我超哥。常出没于 公众号 “超哥前端小栈”、 [博客](https://github.com/micherwa/blogs)、 [掘金](https://juejin.im/user/5a5d4522518825732b19d364)、 [SegmentFault](https://segmentfault.com/u/micherwa)、 [知乎](https://www.zhihu.com/people/micherwa)、 [Github](https://github.com/micherwa)、 [微博](https://weibo.com/jaked) 等地带。
@@ -25,6 +28,7 @@ Hi，我叫Micherwa(米协瓦)，同事都叫我超哥。常出没于 公众号 
 
 健身爱好者，也喜爱美食，闲暇时间乐于阅读和电影。
 
+&nbsp;
 
 ## 一些开源项目
 - [水滴UI](https://github.com/hbteam/weex-droplet-ui) (一个轻量级的 weex UI组件库)
@@ -32,7 +36,7 @@ Hi，我叫Micherwa(米协瓦)，同事都叫我超哥。常出没于 公众号 
 - [react-redux-admin-seed](https://github.com/micherwa/react-redux-admin-seed) (基于 react16 + router4 + react-redux5 + antd3.10 的后台管理种子工程)
 - [vue2-typescript-seed](https://github.com/micherwa/vue2-typescript-seed) (基于 vue2.5 + typescript2.6 + vuex3 的种子工程)
 
-
+&nbsp;
 
 #### PS：欢迎关注我的公众号 “超哥前端小栈”，交流更多的想法与技术。
 ![wechat qrCode](https://github.com/micherwa/blogs/blob/master/images/wechat_qrCode.jpg)
