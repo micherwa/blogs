@@ -8,6 +8,16 @@
 #### 2019
 
 
+#### 2018
+
+
+#### 2017
+
+
+#### 2016
+- [「摘录」程序员面试技巧]()
+
+
 ## 个人介绍
 Hi，我叫Micherwa(米协瓦)，同事都叫我超哥。常出没于 公众号 “超哥前端小栈”、 [博客](https://github.com/micherwa/blogs)、 [掘金](https://juejin.im/user/5a5d4522518825732b19d364)、 [SegmentFault](https://segmentfault.com/u/micherwa)、 [知乎](https://www.zhihu.com/people/micherwa)、 [Github](https://github.com/micherwa)、 [微博](https://weibo.com/jaked) 等地带。
 
