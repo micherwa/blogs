@@ -18,7 +18,7 @@
 
 #### 2016
 - [04-20「摘录」程序员面试技巧](https://github.com/micherwa/blogs/blob/master/articles/2016/04-20%20%E3%80%8C%E6%91%98%E5%BD%95%E3%80%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7.md)
-- [02-06 关于微信公众号的研究](https://github.com/micherwa/blogs/blob/master/articles/2016/04-20%20%E3%80%8C%E6%91%98%E5%BD%95%E3%80%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7.md)
+- [02-06 关于微信公众号的研究](https://github.com/micherwa/blogs/blob/master/articles/2016/02-06%20%E5%85%B3%E4%BA%8E%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9A%84%E7%A0%94%E7%A9%B6.md)
 - [01-12 解读html头部的各种属性](https://github.com/micherwa/blogs/blob/master/articles/2016/01-12%20%E8%A7%A3%E8%AF%BBhtml%E5%A4%B4%E9%83%A8%E7%9A%84%E5%90%84%E7%A7%8D%E5%B1%9E%E6%80%A7.md)
 
 &nbsp;
