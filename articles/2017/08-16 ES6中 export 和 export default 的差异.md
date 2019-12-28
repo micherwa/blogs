@@ -36,6 +36,6 @@ export default const str = 'hello world';
 import str from 'demo1'; //导入的时候没有花括号
 ```
 
-## 总结
+#### 总结
 
 **使用export default命令，为模块指定默认输出，这样在import的时候，可以自定义该模块的名字，不需要知道模块本身的变量名。**
