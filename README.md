@@ -8,12 +8,12 @@
 ## 博客归档（按年份倒序）
 
 #### 2019
-- [12-22 超哥的2019年度总结](https://github.com/micherwa/blogs/blob/master/articles/2019/%E8%B6%85%E5%93%A5%E7%9A%842019%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.md)
+- [12-22 超哥的2019年度总结](https://github.com/micherwa/blogs/blob/master/articles/2019/12-22%20%E8%B6%85%E5%93%A5%E7%9A%842019%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.md)
 
 #### 2018
 - [10-19 「摘录」“热情假设”并不是一个好建议](https://github.com/micherwa/blogs/blob/master/articles/2018/10-19%20%E3%80%8C%E6%91%98%E5%BD%95%E3%80%8D%E2%80%9C%E7%83%AD%E6%83%85%E5%81%87%E8%AE%BE%E2%80%9D%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E5%BB%BA%E8%AE%AE.md)
 
-- [03-06 window.open被浏览器拦截的解决方案]()
+- [03-06 window.open被浏览器拦截的解决方案](https://github.com/micherwa/blogs/blob/master/articles/2018/03-06%20window.open%E8%A2%AB%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8B%A6%E6%88%AA%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
 #### 2017
 - [11-29 HTTP 中 GET 与 POST 的区别](https://github.com/micherwa/blogs/blob/master/articles/2017/11-29%20HTTP%20%E4%B8%AD%20GET%20%E4%B8%8E%20POST%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
