@@ -5,7 +5,7 @@
 
 &nbsp;
 
-**另外，这里有一套干货，欢迎前往哟 ~**  [前端面试题集锦](https://github.com/micherwa/fe-Interviews)
+**另外，这里有一套干货，欢迎前往 ~**  [前端面试题集锦](https://github.com/micherwa/fe-Interviews)
 
 &nbsp;
 
@@ -15,8 +15,9 @@
 - [12-22 超哥的2019年度总结](https://github.com/micherwa/blogs/blob/master/articles/2019/12-22%20%E8%B6%85%E5%93%A5%E7%9A%842019%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.md)
 
 #### 2018
+- [12-19 「前端面试题系列1」今日头条 面试题和思路解析]()
 - [10-19 「摘录」“热情假设”并不是一个好建议](https://github.com/micherwa/blogs/blob/master/articles/2018/10-19%20%E3%80%8C%E6%91%98%E5%BD%95%E3%80%8D%E2%80%9C%E7%83%AD%E6%83%85%E5%81%87%E8%AE%BE%E2%80%9D%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E5%BB%BA%E8%AE%AE.md)
-- [08-13 API之下]()
+- [08-13 「摘录」API之下]()
 - [05-26 前端工程代码规范（四）——JavaScript](https://github.com/micherwa/blogs/blob/master/articles/2018/05-26%20%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94JavaScript.md)
 - [05-26 前端工程代码规范（三）——CSS,SCSS](https://github.com/micherwa/blogs/blob/master/articles/2018/05-26%20%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94CSS%2CSCSS.md)
 - [05-26 前端工程代码规范（二）——HTML](https://github.com/micherwa/blogs/blob/master/articles/2018/05-26%20%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94HTML.md)
