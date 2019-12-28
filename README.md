@@ -14,7 +14,8 @@
 - [10-19 「摘录」“热情假设”并不是一个好建议](https://github.com/micherwa/blogs/blob/master/articles/2018/10-19%20%E3%80%8C%E6%91%98%E5%BD%95%E3%80%8D%E2%80%9C%E7%83%AD%E6%83%85%E5%81%87%E8%AE%BE%E2%80%9D%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E5%BB%BA%E8%AE%AE.md)
 
 #### 2017
-- [10-16 移动端半像素的边框写法]()
+- [11-29 HTTP 中 GET 与 POST 的区别]()
+- [10-16 移动端半像素的边框写法](https://github.com/micherwa/blogs/blob/master/articles/2017/10-16%20%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%8D%8A%E5%83%8F%E7%B4%A0%E7%9A%84%E8%BE%B9%E6%A1%86%E5%86%99%E6%B3%95.md)
 - [08-22 浅谈 发布/订阅 模式](https://github.com/micherwa/blogs/blob/master/articles/2017/08-22%20%E6%B5%85%E8%B0%88%20%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%20%E6%A8%A1%E5%BC%8F.md)
 - [08-16 ES6中 export 和 export default 的差异](https://github.com/micherwa/blogs/blob/master/articles/2017/08-16%20ES6%E4%B8%AD%20export%20%E5%92%8C%20export%20default%20%E7%9A%84%E5%B7%AE%E5%BC%82.md)
 - [07-15 盒子模型中的box-sizing](https://github.com/micherwa/blogs/blob/master/articles/2017/07-15%20%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84box-sizing.md)
