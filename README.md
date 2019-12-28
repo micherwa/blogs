@@ -15,8 +15,8 @@
 - [12-22 超哥的2019年度总结](https://github.com/micherwa/blogs/blob/master/articles/2019/12-22%20%E8%B6%85%E5%93%A5%E7%9A%842019%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.md)
 
 #### 2018
-- [12-30 2018再见！]()
-- [12-26 「写在寒冬」分享给前端er的求职和成长建议]()
+- [12-30 2018再见！](https://github.com/micherwa/blogs/blob/master/articles/2018/12-30%202018%E5%86%8D%E8%A7%81%EF%BC%81.md)
+- [12-26 「写在寒冬」分享给前端er的求职和成长建议](https://github.com/micherwa/blogs/blob/master/articles/2018/12-26%20%E3%80%8C%E5%86%99%E5%9C%A8%E5%AF%92%E5%86%AC%E3%80%8D%E5%88%86%E4%BA%AB%E7%BB%99%E5%89%8D%E7%AB%AFer%E7%9A%84%E6%B1%82%E8%81%8C%E5%92%8C%E6%88%90%E9%95%BF%E5%BB%BA%E8%AE%AE.md)
 - [12-23 「前端面试题系列2」如何实现一个圣杯布局？](https://github.com/micherwa/blogs/blob/master/articles/2018/12-23%20%E3%80%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B3%BB%E5%88%972%E3%80%8D%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%9C%A3%E6%9D%AF%E5%B8%83%E5%B1%80%EF%BC%9F.md)
 - [12-19 「前端面试题系列1」今日头条 面试题和思路解析](https://github.com/micherwa/blogs/blob/master/articles/2018/12-19%20%E3%80%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B3%BB%E5%88%971%E3%80%8D%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1%20%E9%9D%A2%E8%AF%95%E9%A2%98%E5%92%8C%E6%80%9D%E8%B7%AF%E8%A7%A3%E6%9E%90.md)
 - [10-19 「摘录」“热情假设”并不是一个好建议](https://github.com/micherwa/blogs/blob/master/articles/2018/10-19%20%E3%80%8C%E6%91%98%E5%BD%95%E3%80%8D%E2%80%9C%E7%83%AD%E6%83%85%E5%81%87%E8%AE%BE%E2%80%9D%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E5%BB%BA%E8%AE%AE.md)
