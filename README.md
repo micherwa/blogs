@@ -1,7 +1,7 @@
 ## Micherwa Blog
 超哥写博客的地方，偏前端领域，也会记录一些生活感悟，与大家分享。
 
-[原博客地址](http://micherwa.cc/blog/) 已不再更新，并会逐步地迁移到此。
+原博客，正在做逐步迁移。
 
 &nbsp;
 
@@ -14,6 +14,7 @@
 - [10-19 「摘录」“热情假设”并不是一个好建议](https://github.com/micherwa/blogs/blob/master/articles/2018/10-19%20%E3%80%8C%E6%91%98%E5%BD%95%E3%80%8D%E2%80%9C%E7%83%AD%E6%83%85%E5%81%87%E8%AE%BE%E2%80%9D%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E5%BB%BA%E8%AE%AE.md)
 
 #### 2017
+- [07-15 盒子模型中的box-sizing]()
 - [03-18 POST提交数据的4种常见方式](https://github.com/micherwa/blogs/blob/master/articles/2017/03-18%20POST%E6%8F%90%E4%BA%A4%E6%95%B0%E6%8D%AE%E7%9A%844%E7%A7%8D%E5%B8%B8%E8%A7%81%E6%96%B9%E5%BC%8F.md)
 
 #### 2016
@@ -25,7 +26,7 @@
 &nbsp;
 
 ## 个人介绍
-Hi，我叫Micherwa(米协瓦)，同事都叫我超哥。常出没于 公众号 “超哥前端小栈”、 [博客](https://github.com/micherwa/blogs)、 [掘金](https://juejin.im/user/5a5d4522518825732b19d364)、 [SegmentFault](https://segmentfault.com/u/micherwa)、 [知乎](https://www.zhihu.com/people/micherwa)、 [Github](https://github.com/micherwa)、 [微博](https://weibo.com/jaked) 等地带。
+Hi，我叫 Micherwa(米协瓦)，同事都叫我超哥。常出没于 公众号 “超哥前端小栈”、 [博客](https://github.com/micherwa/blogs)、 [掘金](https://juejin.im/user/5a5d4522518825732b19d364)、 [SegmentFault](https://segmentfault.com/u/micherwa)、 [知乎](https://www.zhihu.com/people/micherwa)、 [Github](https://github.com/micherwa)、 [微博](https://weibo.com/jaked) 等地带。
 
 职业是软件工程师。目前在 「莉莉丝游戏」 的广告技术中心，担任前端负责人 。曾在游族网络 的广告技术部，研发广告投放系统、在厚本金融参与研发 [水滴UI](https://github.com/hbteam/weex-droplet-ui) (一个轻量级的 weex UI组件库)、 在窝牛装修与篱笆网，从事移动前端开发相关工作 (其中有一年iOS原生开发经验)。
 
