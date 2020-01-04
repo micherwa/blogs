@@ -14,7 +14,8 @@
 #### 2019
 - [12-22 超哥的2019年度总结](https://github.com/micherwa/blogs/blob/master/articles/2019/12-22%20%E8%B6%85%E5%93%A5%E7%9A%842019%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.md)
 
-- [02-18 「前端面试题系列7」Javascript 中的事件机制（从原生到框架）]()
+- [02-28 「前端面试题系列8」数组去重(10 种浓缩版)]()
+- [02-18 「前端面试题系列7」Javascript 中的事件机制（从原生到框架）](https://github.com/micherwa/blogs/blob/master/articles/2019/02-18%20%E3%80%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B3%BB%E5%88%977%E3%80%8DJavascript%20%E4%B8%AD%E7%9A%84%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6%EF%BC%88%E4%BB%8E%E5%8E%9F%E7%94%9F%E5%88%B0%E6%A1%86%E6%9E%B6%EF%BC%89.md)
 - [02-14 「前端面试题系列6」理解函数的柯里化](https://github.com/micherwa/blogs/blob/master/articles/2019/02-14%20%E3%80%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B3%BB%E5%88%976%E3%80%8D%E7%90%86%E8%A7%A3%E5%87%BD%E6%95%B0%E7%9A%84%E6%9F%AF%E9%87%8C%E5%8C%96.md)
 - [02-10 「前端面试题系列5」ES6 中箭头函数的用法](https://github.com/micherwa/blogs/blob/master/articles/2019/02-10%20%E3%80%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B3%BB%E5%88%975%E3%80%8DES6%20%E4%B8%AD%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0%E7%9A%84%E7%94%A8%E6%B3%95.md)
 - [01-24 「干货」细说 call、apply 以及 bind 的区别和用法](https://github.com/micherwa/blogs/blob/master/articles/2019/01-24%20%E3%80%8C%E5%B9%B2%E8%B4%A7%E3%80%8D%E7%BB%86%E8%AF%B4%20call%E3%80%81apply%20%E4%BB%A5%E5%8F%8A%20bind%20%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E7%94%A8%E6%B3%95.md)
