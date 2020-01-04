@@ -14,7 +14,7 @@
 #### 2019
 - [12-22 超哥的2019年度总结](https://github.com/micherwa/blogs/blob/master/articles/2019/12-22%20%E8%B6%85%E5%93%A5%E7%9A%842019%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.md)
 
-- [01-24 「干货」细说 call、apply 以及 bind 的区别和用法]()
+- [01-24 「干货」细说 call、apply 以及 bind 的区别和用法](https://github.com/micherwa/blogs/blob/master/articles/2019/01-24%20%E3%80%8C%E5%B9%B2%E8%B4%A7%E3%80%8D%E7%BB%86%E8%AF%B4%20call%E3%80%81apply%20%E4%BB%A5%E5%8F%8A%20bind%20%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E7%94%A8%E6%B3%95.md)
 - [01-16 「前端面试题系列4」this的原理以及用法](https://github.com/micherwa/blogs/blob/master/articles/2019/01-16%20%E3%80%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B3%BB%E5%88%974%E3%80%8Dthis%E7%9A%84%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8A%E7%94%A8%E6%B3%95.md)
 - [01-04 「前端面试题系列3」伪类与伪元素的区别及实战](https://github.com/micherwa/blogs/blob/master/articles/2019/01-04%20%E3%80%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B3%BB%E5%88%973%E3%80%8D%E4%BC%AA%E7%B1%BB%E4%B8%8E%E4%BC%AA%E5%85%83%E7%B4%A0%E7%9A%84%E5%8C%BA%E5%88%AB%E5%8F%8A%E5%AE%9E%E6%88%98.md)
 
