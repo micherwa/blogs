@@ -14,7 +14,9 @@ __另外，这里有一套干货，欢迎前往 ~__  [前端面试题集锦](htt
 #### 2019
 - [12-22 超哥的2019年度总结](https://github.com/micherwa/blogs/blob/master/articles/2019/12-22%20%E8%B6%85%E5%93%A5%E7%9A%842019%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.md)
 
-- [03-27 一些有趣的 CSS 魔法和布局（下）]()
+
+- [04-03 面试王者的出装方案推荐——软技能篇]()
+- [03-27 一些有趣的 CSS 魔法和布局（下）](https://github.com/micherwa/blogs/blob/master/articles/2019/03-27%20%E4%B8%80%E4%BA%9B%E6%9C%89%E8%B6%A3%E7%9A%84%20CSS%20%E9%AD%94%E6%B3%95%E5%92%8C%E5%B8%83%E5%B1%80%EF%BC%88%E4%B8%8B%EF%BC%89.md)
 - [03-21 一些有趣的 CSS 魔法和布局（上）](https://github.com/micherwa/blogs/blob/master/articles/2019/03-21%20%E4%B8%80%E4%BA%9B%E6%9C%89%E8%B6%A3%E7%9A%84%20CSS%20%E9%AD%94%E6%B3%95%E5%92%8C%E5%B8%83%E5%B1%80%EF%BC%88%E4%B8%8A%EF%BC%89.md)
 - [03-13 「干货」细说 Array 的常用操作(ES5 和 ES6)](https://github.com/micherwa/blogs/blob/master/articles/2019/03-13%20%E3%80%8C%E5%B9%B2%E8%B4%A7%E3%80%8D%E7%BB%86%E8%AF%B4%20Array%20%E7%9A%84%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C(ES5%20%E5%92%8C%20ES6).md)
 - [03-06 「读懂源码系列2」我从 lodash 源码中学到的几个知识点](https://github.com/micherwa/blogs/blob/master/articles/2019/03-06%20%E3%80%8C%E8%AF%BB%E6%87%82%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%972%E3%80%8D%E6%88%91%E4%BB%8E%20lodash%20%E6%BA%90%E7%A0%81%E4%B8%AD%E5%AD%A6%E5%88%B0%E7%9A%84%E5%87%A0%E4%B8%AA%E7%9F%A5%E8%AF%86%E7%82%B9.md)
