@@ -14,6 +14,7 @@ __另外，这里有一套干货，欢迎前往：__  [前端面试题集锦](ht
 #### 2019
 - [12-22 超哥的2019年度总结](https://github.com/micherwa/blogs/blob/master/articles/2019/12-22%20%E8%B6%85%E5%93%A5%E7%9A%842019%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.md)
 
+- [06-28 「干货」我的 Sublime Text 3 私房菜]()
 - [06-12 「干货」CSS 不定宽高的垂直水平居中（最全 9 种）]()
 - [05-30 「读懂源码系列4」lodash 是如何实现深拷贝的（下）](https://github.com/micherwa/blogs/blob/master/articles/2019/05-30%20%E3%80%8C%E8%AF%BB%E6%87%82%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%974%E3%80%8Dlodash%20%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E6%B7%B1%E6%8B%B7%E8%B4%9D%E7%9A%84%EF%BC%88%E4%B8%8B%EF%BC%89.md)
 - [05-08 「读懂源码系列3」lodash 是如何实现深拷贝的（上）](https://github.com/micherwa/blogs/blob/master/articles/2019/05-08%20%E3%80%8C%E8%AF%BB%E6%87%82%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%973%E3%80%8Dlodash%20%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E6%B7%B1%E6%8B%B7%E8%B4%9D%E7%9A%84%EF%BC%88%E4%B8%8A%EF%BC%89.md)
